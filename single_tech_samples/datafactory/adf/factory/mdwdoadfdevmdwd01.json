@@ -1,0 +1,9 @@
+{
+	"name": "mdwdoadfdevmdwd01",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3d246aa6-5764-428c-9fbd-831b03507c9f",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
