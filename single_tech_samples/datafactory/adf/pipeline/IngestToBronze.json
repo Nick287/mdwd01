@@ -72,12 +72,6 @@
 				"type": "string"
 			}
 		},
-		"variables": {
-			"test": {
-				"type": "String",
-				"defaultValue": "bo"
-			}
-		},
 		"folder": {
 			"name": "ParkingSensors"
 		},
