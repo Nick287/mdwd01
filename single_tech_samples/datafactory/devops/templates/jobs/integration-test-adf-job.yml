@@ -15,6 +15,7 @@ parameters:
 
 jobs:
 - job: 'Integration_Test'
+  dependsOn: deploy_adf
   displayName: 'Integration E2E Test'
   pool:
     vmImage: 'ubuntu-latest'
